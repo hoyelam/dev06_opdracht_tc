@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/watching"
+        android:background="#5BC0EB"
+        android:title="@string/popmenu_watching" />
+
+    <item
+        android:id="@+id/plantowatch"
+        android:background="#5BC0EB"
+        android:title="@string/popupmenu_plantowatch" />
+
+    <item
+        android:id="@+id/completed"
+        android:background="#5BC0EB"
+        android:title="@string/popupmenu_completed" />
+
+</menu>  
